@@ -1,0 +1,139 @@
+[
+  {
+    "id": "1",
+    "name": "Full Body Strength",
+    "exercises": [
+      {"name": "Squats", "sets": 3, "reps": 12},
+      {"name": "Bench Press", "sets": 3, "reps": 10},
+      {"name": "Deadlifts", "sets": 3, "reps": 8},
+      {"name": "Pull-ups", "sets": 3, "reps": 8}
+    ],
+    "createdBy": "Mike Johnson",
+    "difficulty": "Intermediate",
+    "duration": 60
+  },
+  {
+    "id": "2",
+    "name": "Cardio Blast",
+    "exercises": [
+      {"name": "Burpees", "sets": 4, "reps": 15},
+      {"name": "Mountain Climbers", "sets": 4, "reps": 20},
+      {"name": "High Knees", "sets": 4, "reps": 30},
+      {"name": "Jump Squats", "sets": 4, "reps": 15}
+    ],
+    "createdBy": "Sarah Martinez",
+    "difficulty": "Advanced",
+    "duration": 30
+  },
+  {
+    "id": "3",
+    "name": "Upper Body Focus",
+    "exercises": [
+      {"name": "Push-ups", "sets": 3, "reps": 15},
+      {"name": "Lat Pulldowns", "sets": 3, "reps": 12},
+      {"name": "Overhead Press", "sets": 3, "reps": 10},
+      {"name": "Bicep Curls", "sets": 3, "reps": 12},
+      {"name": "Tricep Dips", "sets": 3, "reps": 10}
+    ],
+    "createdBy": "Alex Wilson",
+    "difficulty": "Beginner",
+    "duration": 45
+  },
+  {
+    "id": "4",
+    "name": "Core Strengthener",
+    "exercises": [
+      {"name": "Plank", "sets": 3, "reps": "60 seconds"},
+      {"name": "Russian Twists", "sets": 3, "reps": 20},
+      {"name": "Leg Raises", "sets": 3, "reps": 15},
+      {"name": "Dead Bug", "sets": 3, "reps": 12},
+      {"name": "Bicycle Crunches", "sets": 3, "reps": 20}
+    ],
+    "createdBy": "Lisa Chen",
+    "difficulty": "Intermediate",
+    "duration": 25
+  },
+  {
+    "id": "5",
+    "name": "Lower Body Power",
+    "exercises": [
+      {"name": "Goblet Squats", "sets": 4, "reps": 15},
+      {"name": "Bulgarian Split Squats", "sets": 3, "reps": 12},
+      {"name": "Romanian Deadlifts", "sets": 3, "reps": 12},
+      {"name": "Calf Raises", "sets": 3, "reps": 20},
+      {"name": "Glute Bridges", "sets": 3, "reps": 15}
+    ],
+    "createdBy": "David Rodriguez",
+    "difficulty": "Intermediate",
+    "duration": 50
+  },
+  {
+    "id": "6",
+    "name": "Beginner Circuit",
+    "exercises": [
+      {"name": "Wall Push-ups", "sets": 2, "reps": 10},
+      {"name": "Chair Squats", "sets": 2, "reps": 12},
+      {"name": "Assisted Lunges", "sets": 2, "reps": 8},
+      {"name": "Arm Circles", "sets": 2, "reps": 15},
+      {"name": "Marching in Place", "sets": 2, "reps": 30}
+    ],
+    "createdBy": "Emma Thompson",
+    "difficulty": "Beginner",
+    "duration": 20
+  },
+  {
+    "id": "7",
+    "name": "HIIT Workout",
+    "exercises": [
+      {"name": "Jump Squats", "sets": 5, "reps": "30 seconds"},
+      {"name": "Push-up to T", "sets": 5, "reps": "30 seconds"},
+      {"name": "Sprint in Place", "sets": 5, "reps": "30 seconds"},
+      {"name": "Plank Jacks", "sets": 5, "reps": "30 seconds"}
+    ],
+    "createdBy": "Ryan Taylor",
+    "difficulty": "Advanced",
+    "duration": 20
+  },
+  {
+    "id": "8",
+    "name": "Functional Movement",
+    "exercises": [
+      {"name": "Kettlebell Swings", "sets": 3, "reps": 20},
+      {"name": "TRX Rows", "sets": 3, "reps": 12},
+      {"name": "Battle Ropes", "sets": 3, "reps": "30 seconds"},
+      {"name": "Box Step-ups", "sets": 3, "reps": 12},
+      {"name": "Bear Crawls", "sets": 3, "reps": "20 steps"}
+    ],
+    "createdBy": "Maria Garcia",
+    "difficulty": "Advanced",
+    "duration": 40
+  },
+  {
+    "id": "9",
+    "name": "Flexibility & Mobility",
+    "exercises": [
+      {"name": "Cat-Cow Stretch", "sets": 2, "reps": 10},
+      {"name": "Hip Circles", "sets": 2, "reps": 10},
+      {"name": "Shoulder Rolls", "sets": 2, "reps": 15},
+      {"name": "Leg Swings", "sets": 2, "reps": 12},
+      {"name": "Deep Breathing", "sets": 3, "reps": "60 seconds"}
+    ],
+    "createdBy": "Jennifer Davis",
+    "difficulty": "Beginner",
+    "duration": 15
+  },
+  {
+    "id": "10",
+    "name": "Athletic Performance",
+    "exercises": [
+      {"name": "Power Cleans", "sets": 4, "reps": 5},
+      {"name": "Box Jumps", "sets": 4, "reps": 8},
+      {"name": "Medicine Ball Slams", "sets": 4, "reps": 12},
+      {"name": "Sprint Intervals", "sets": 6, "reps": "20 seconds"},
+      {"name": "Agility Ladder", "sets": 3, "reps": "30 seconds"}
+    ],
+    "createdBy": "Carlos Martinez",
+    "difficulty": "Advanced",
+    "duration": 55
+  }
+]

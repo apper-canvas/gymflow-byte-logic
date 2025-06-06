@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Morning HIIT",
+    "instructor": "Sarah Martinez",
+    "datetime": "2024-03-25T07:00:00.000Z",
+    "duration": 45,
+    "capacity": 20,
+    "enrolled": 18,
+    "room": "Studio A"
+  },
+  {
+    "id": "2",
+    "name": "Yoga Flow",
+    "instructor": "Emma Thompson",
+    "datetime": "2024-03-25T09:00:00.000Z",
+    "duration": 60,
+    "capacity": 15,
+    "enrolled": 12,
+    "room": "Studio B"
+  },
+  {
+    "id": "3",
+    "name": "Strength Training 101",
+    "instructor": "Mike Johnson",
+    "datetime": "2024-03-25T18:00:00.000Z",
+    "duration": 50,
+    "capacity": 12,
+    "enrolled": 10,
+    "room": "Strength Zone A"
+  },
+  {
+    "id": "4",
+    "name": "Pilates Core",
+    "instructor": "Lisa Chen",
+    "datetime": "2024-03-25T10:30:00.000Z",
+    "duration": 45,
+    "capacity": 16,
+    "enrolled": 14,
+    "room": "Studio A"
+  },
+  {
+    "id": "5",
+    "name": "Spin Class",
+    "instructor": "David Rodriguez",
+    "datetime": "2024-03-25T19:00:00.000Z",
+    "duration": 45,
+    "capacity": 25,
+    "enrolled": 22,
+    "room": "Spin Studio"
+  },
+  {
+    "id": "6",
+    "name": "Zumba Dance",
+    "instructor": "Maria Garcia",
+    "datetime": "2024-03-26T18:30:00.000Z",
+    "duration": 50,
+    "capacity": 30,
+    "enrolled": 28,
+    "room": "Studio B"
+  },
+  {
+    "id": "7",
+    "name": "Bootcamp",
+    "instructor": "Alex Wilson",
+    "datetime": "2024-03-26T06:30:00.000Z",
+    "duration": 60,
+    "capacity": 18,
+    "enrolled": 15,
+    "room": "Outdoor Area"
+  },
+  {
+    "id": "8",
+    "name": "Meditation & Mindfulness",
+    "instructor": "Jennifer Davis",
+    "datetime": "2024-03-26T20:00:00.000Z",
+    "duration": 30,
+    "capacity": 20,
+    "enrolled": 8,
+    "room": "Studio A"
+  },
+  {
+    "id": "9",
+    "name": "CrossFit Fundamentals",
+    "instructor": "Ryan Taylor",
+    "datetime": "2024-03-27T17:00:00.000Z",
+    "duration": 55,
+    "capacity": 14,
+    "enrolled": 12,
+    "room": "CrossFit Box"
+  },
+  {
+    "id": "10",
+    "name": "Aqua Aerobics",
+    "instructor": "Amanda White",
+    "datetime": "2024-03-27T11:00:00.000Z",
+    "duration": 45,
+    "capacity": 20,
+    "enrolled": 16,
+    "room": "Pool Area"
+  },
+  {
+    "id": "11",
+    "name": "Senior Fitness",
+    "instructor": "Patricia Brown",
+    "datetime": "2024-03-27T14:00:00.000Z",
+    "duration": 40,
+    "capacity": 15,
+    "enrolled": 11,
+    "room": "Studio B"
+  },
+  {
+    "id": "12",
+    "name": "Boxing Fundamentals",
+    "instructor": "Carlos Martinez",
+    "datetime": "2024-03-28T19:30:00.000Z",
+    "duration": 50,
+    "capacity": 16,
+    "enrolled": 14,
+    "room": "Boxing Ring"
+  }
+]
