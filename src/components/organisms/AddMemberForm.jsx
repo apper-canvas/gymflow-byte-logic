@@ -1,8 +1,6 @@
 import React from 'react'
-      import Input from '@/components/atoms/Input'
-      import Select from '@/components/atoms/Select' // Assuming a Select atom if needed
-      import Modal from '@/components/molecules/Modal'
-
+import Input from '../atoms/Input'
+import Modal from '../molecules/Modal'
       const AddMemberForm = ({ isOpen, onClose, newMember, setNewMember, onAddMember }) => {
         return (
           <Modal
