@@ -1,13 +1,14 @@
 import { useState, useEffect } from 'react'
-      import { toast } from 'react-toastify'
-      import memberService from '@/services/api/memberService'
-      import SearchInput from '@/components/molecules/SearchInput'
-      import Button from '@/components/atoms/Button'
-      import Icon from '@/components/atoms/Icon'
-      import MemberCard from '@/components/molecules/MemberCard'
-      import AddMemberForm from '@/components/organisms/AddMemberForm'
-      import Title from '@/components/atoms/Title'
-      import Text from '@/components/atoms/Text'
+import { toast } from 'react-toastify'
+import memberService from '../../services/api/memberService'
+import SearchInput from '../molecules/SearchInput'
+import Button from '../atoms/Button'
+import Icon from '../atoms/Icon'
+import MemberCard from '../molecules/MemberCard'
+import AddMemberForm from './AddMemberForm'
+import Title from '../atoms/Title'
+import Text from '../atoms/Text'
+import Modal from '../molecules/Modal'
 
       const MemberManagement = () => {
         const [members, setMembers] = useState([])
