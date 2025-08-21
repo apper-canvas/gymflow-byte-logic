@@ -26,9 +26,9 @@ import { motion } from 'framer-motion'
               <div className="flex items-center space-x-3">
                 <div className="w-10 h-10 bg-gradient-to-r from-primary to-accent rounded-xl flex items-center justify-center">
                   <Icon name="Dumbbell" size={24} className="text-white" />
-                </div>
+</div>
                 <div>
-                  <Title as="h1" className="text-xl">GymFlow</Title>
+                  <Title as="h1" className="text-xl">Gym Flow Pro</Title>
                   <Text as="p" className="text-sm text-surface-600 dark:text-surface-400">Gym Management</Text>
                 </div>
               </div>
