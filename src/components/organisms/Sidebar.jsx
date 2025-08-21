@@ -28,7 +28,7 @@ import { motion } from 'framer-motion'
                   <Icon name="Dumbbell" size={24} className="text-white" />
 </div>
                 <div>
-                  <Title as="h1" className="text-xl">Gym Flow Pro</Title>
+                  <Title as="h1" className="text-xl">Gym Flow Ultra Pro</Title>
                   <Text as="p" className="text-sm text-surface-600 dark:text-surface-400">Gym Management</Text>
                 </div>
               </div>
