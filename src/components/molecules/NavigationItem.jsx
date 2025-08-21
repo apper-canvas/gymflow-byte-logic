@@ -12,9 +12,11 @@ import Button from '@/components/atoms/Button'
             key={id}
             onClick={onClick}
             className={`w-full flex items-center space-x-3 px-4 py-3 rounded-xl ${activeClass}`}
-          >
-            <Icon name={icon} size={20} className={isActive ? 'text-white' : ''} />
-            <Text as="span" className="font-medium">{label}</Text>
+>
+            <div className="flex items-center gap-3">
+              <Icon name={icon} size={20} className={isActive ? 'text-white' : ''} />
+              <Text as="span" className="font-medium">{label}</Text>
+            </div>
           </Button>
         )
       }
